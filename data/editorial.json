@@ -1,0 +1,546 @@
+[
+  {
+    "pmid": "39826968",
+    "category": "pediatrie",
+    "audience": "Enfant",
+    "title_fr": "Appendicite non compliquée de l'enfant : les antibiotiques seuls ne font pas aussi bien que l'appendicectomie",
+    "study_fr": "Essai randomisé de non-infériorité · 11 hôpitaux pédiatriques · 936 enfants de 5 à 16 ans",
+    "summary_fr": "Chez l'enfant suspect d'appendicite non perforée, le traitement antibiotique seul a été comparé à l'appendicectomie d'emblée. À 12 mois, l'échec du traitement est survenu chez 34 % des enfants traités par antibiotiques contre 7 % des opérés (essentiellement des appendicectomies blanches). Avec une marge de non-infériorité de 20 %, l'antibiothérapie seule est déclarée inférieure à la chirurgie.",
+    "key_points_fr": [
+      "Échec à 12 mois : 34 % (153/452) sous antibiotiques vs 7 % (28/394) après appendicectomie, différence 26,7 %.",
+      "Dans le bras chirurgie, presque tous les « échecs » étaient des appendicectomies blanches.",
+      "Aucun décès ni événement indésirable grave ; événements indésirables légers à modérés plus fréquents sous antibiotiques (RR 4,3).",
+      "8 % des enfants du bras antibiotiques secondairement opérés avaient un appendice histologiquement normal."
+    ],
+    "pratique_fr": "L'approche non opératoire reste une option discutable au cas par cas, mais il faut informer les familles qu'un enfant sur trois environ sera finalement opéré dans l'année.",
+    "tags": ["Appendicite", "Antibiothérapie", "Chirurgie pédiatrique", "Non-infériorité"]
+  },
+  {
+    "pmid": "41359314",
+    "category": "pediatrie",
+    "audience": "Enfant",
+    "title_fr": "Nourrisson fébrile de 28 jours ou moins : la règle PECARN pour cibler la ponction lombaire",
+    "study_fr": "Analyse poolée de 4 cohortes prospectives · 6 pays · 1 537 nourrissons",
+    "summary_fr": "La règle PECARN actualisée (bandelette urinaire négative, procalcitonine ≤ 0,5 ng/mL, polynucléaires neutrophiles ≤ 4 000/mm³) a été testée chez des nouveau-nés fébriles à terme, sans aspect toxique. Elle identifie 41 % de nourrissons à bas risque avec une sensibilité de 94 % et une valeur prédictive négative de 99,4 % pour les bactériémies et méningites bactériennes. Aucune méningite bactérienne n'a été classée à tort comme bas risque.",
+    "key_points_fr": [
+      "4,5 % d'infections bactériennes invasives, dont 0,7 % de méningites bactériennes.",
+      "Sensibilité 94,2 %, spécificité 41,6 %, VPN 99,4 % pour l'infection bactérienne invasive.",
+      "Aucune méningite manquée, dans l'analyse principale comme dans l'analyse secondaire (2 531 nourrissons).",
+      "Concerne uniquement les nourrissons à terme, sans antécédent, sans aspect toxique."
+    ],
+    "pratique_fr": "Chez le nouveau-né fébrile classé à bas risque PECARN, la ponction lombaire systématique peut faire l'objet d'une décision partagée avec les parents plutôt que d'être automatique.",
+    "tags": ["Fièvre du nourrisson", "Méningite", "Procalcitonine", "Règle de décision", "Urgences pédiatriques"]
+  },
+  {
+    "pmid": "38048787",
+    "category": "pediatrie",
+    "audience": "Enfant",
+    "title_fr": "Oxy-PICU : viser une SpO₂ de 88–92 % chez l'enfant ventilé en réanimation",
+    "study_fr": "Essai randomisé pragmatique · 15 réanimations pédiatriques britanniques · 2 040 enfants",
+    "summary_fr": "Chez l'enfant admis en urgence en réanimation et ventilé invasivement, une cible d'oxygénation conservatrice (SpO₂ 88–92 %) a été comparée à une cible libérale (SpO₂ > 94 %). La stratégie conservatrice a légèrement mais significativement réduit la durée des suppléances d'organe ou le décès à 30 jours, sans excès d'événements indésirables.",
+    "key_points_fr": [
+      "Critère principal : durée de suppléance d'organe à J30, le décès étant le pire score.",
+      "Index probabiliste 0,53 en faveur de la cible conservatrice (OR ajusté 0,84 ; p = 0,04).",
+      "Événements indésirables prédéfinis : 3 % (conservateur) vs 4 % (libéral).",
+      "Les auteurs suggèrent aussi un bénéfice économique d'une adoption large."
+    ],
+    "pratique_fr": "En réanimation pédiatrique, l'hyperoxie « par sécurité » n'apporte rien : une cible de SpO₂ à 88–92 % est raisonnable chez l'enfant ventilé.",
+    "tags": ["Réanimation pédiatrique", "Oxygénothérapie", "Ventilation", "Essai pragmatique"]
+  },
+  {
+    "pmid": "38986058",
+    "category": "vaccins",
+    "audience": "Enfant",
+    "title_fr": "Nirsévimab en vie réelle en France : 83 % d'efficacité contre l'hospitalisation pour bronchiolite à VRS",
+    "study_fr": "Étude cas-témoins prospective multicentrique française · 1 035 nourrissons",
+    "summary_fr": "Première évaluation en vie réelle du nirsévimab lors de la saison 2023-2024 en France. Chez les nourrissons de moins de 12 mois, l'efficacité ajustée contre l'hospitalisation pour bronchiolite à VRS atteint 83 %. La protection persiste pour les formes graves : 70 % contre l'admission en soins critiques et 67 % contre le recours à une assistance ventilatoire.",
+    "key_points_fr": [
+      "690 cas hospitalisés appariés à 345 témoins (âge médian environ 3 mois).",
+      "8,7 % des cas vs 28,1 % des témoins avaient reçu le nirsévimab.",
+      "Efficacité : 83,0 % (IC95 % 73,4–89,2) contre l'hospitalisation.",
+      "69,6 % contre les soins critiques, 67,2 % contre la ventilation."
+    ],
+    "pratique_fr": "Ces données françaises confortent l'immunisation systématique des nourrissons par nirsévimab avant ou pendant leur première saison de VRS.",
+    "tags": ["VRS", "Nirsévimab", "Bronchiolite", "Vie réelle", "France"]
+  },
+  {
+    "pmid": "41428474",
+    "category": "vaccins",
+    "audience": "Enfant",
+    "title_fr": "Nirsévimab ou vaccination maternelle contre le VRS : la comparaison française à l'échelle nationale",
+    "study_fr": "Cohorte nationale SNDS · saison 2024-2025 · 42 560 nouveau-nés appariés",
+    "summary_fr": "À partir du Système national des données de santé, les nouveau-nés protégés par la vaccination maternelle RSVpreF (32–36 SA) ont été comparés à ceux ayant reçu le nirsévimab avant la sortie de maternité. Le nirsévimab est associé à un risque d'hospitalisation pour infection respiratoire basse à VRS plus faible de 26 %, et à environ 40 % de formes graves en moins (réanimation, ventilation, oxygène).",
+    "key_points_fr": [
+      "481 hospitalisations : 212 dans le groupe nirsévimab vs 269 dans le groupe vaccin maternel.",
+      "HR ajusté 0,74 pour l'hospitalisation, 0,58 pour l'admission en réanimation.",
+      "HR 0,57 pour l'assistance ventilatoire et 0,56 pour l'oxygénothérapie.",
+      "Résultats cohérents dans tous les sous-groupes ; première saison d'utilisation conjointe des deux stratégies."
+    ],
+    "pratique_fr": "Les deux stratégies protègent, mais en France le nirsévimab semble offrir une meilleure protection du nouveau-né ; utile pour conseiller les familles en anténatal.",
+    "tags": ["VRS", "Nirsévimab", "Abrysvo", "Vaccination maternelle", "SNDS"]
+  },
+  {
+    "pmid": "40961446",
+    "category": "vaccins",
+    "audience": "Enfant",
+    "title_fr": "Clesrovimab : un nouvel anticorps monoclonal anti-VRS en dose unique",
+    "study_fr": "Essai de phase 2b/3 randomisé contre placebo (CLEVER) · 3 614 nourrissons",
+    "summary_fr": "Le clesrovimab, anticorps à longue durée d'action dirigé contre le site IV de la protéine F du VRS, a été administré en une injection unique de 105 mg chez des nourrissons prématurés et à terme. Il réduit de 60 % les infections respiratoires basses à VRS ayant nécessité une consultation au cours des 150 jours suivants, et réduit aussi les hospitalisations, avec une tolérance comparable au placebo.",
+    "key_points_fr": [
+      "Randomisation 2:1, dose fixe de 105 mg IM quel que soit le poids.",
+      "Incidence sur 5 mois : 2,6 % sous clesrovimab vs 6,5 % sous placebo (efficacité 60,4 %).",
+      "Réduction également des hospitalisations liées au VRS (critère secondaire clé).",
+      "Profil de sécurité similaire au placebo."
+    ],
+    "pratique_fr": "Une alternative au nirsévimab se profile ; son intérêt réel dépendra des comparaisons directes et des recommandations françaises à venir.",
+    "tags": ["VRS", "Clesrovimab", "Anticorps monoclonal", "Prévention"]
+  },
+  {
+    "pmid": "39092529",
+    "category": "vaccins",
+    "audience": "Enfant & adulte",
+    "title_fr": "Résurgence de la coqueluche en France en 2024, avec un premier isolat résistant aux macrolides",
+    "study_fr": "Surveillance nationale (CNR) · Eurosurveillance",
+    "summary_fr": "Après trois années d'incidence quasi nulle, la France a connu en 2024 une forte reprise de la coqueluche : 5 616 PCR positives entre janvier et mai, soit près d'un test sur quatre. Les souches séquencées produisent majoritairement la pertactine et FIM2, à la différence des années pré-COVID. Un isolat résistant aux macrolides a été identifié.",
+    "key_points_fr": [
+      "5 616 qPCR positives (24,9 %) sur les 5 premiers mois de 2024.",
+      "66 isolats sur 67 produisent la pertactine, 56 produisent FIM2.",
+      "Un isolat de génotype Bp-AgST4 résistant aux macrolides.",
+      "La résurgence pourrait favoriser les souches exprimant FIM2 et pertactine."
+    ],
+    "pratique_fr": "Penser à la coqueluche devant une toux prolongée, protéger les nourrissons (vaccination de la femme enceinte, cocooning) et documenter les échecs de macrolides.",
+    "tags": ["Coqueluche", "Bordetella pertussis", "Épidémiologie", "Résistance aux macrolides", "France"]
+  },
+  {
+    "pmid": "37180594",
+    "category": "vaccins",
+    "audience": "Enfant",
+    "title_fr": "Infections invasives à streptocoque A chez l'enfant en France : la flambée de l'hiver 2022",
+    "study_fr": "Série temporelle sur 15 ans · réseau pédiatrique français",
+    "summary_fr": "Une analyse de 15 ans de données pédiatriques françaises montre une hausse inattendue des infections invasives à streptocoque du groupe A à partir d'octobre 2022, dominée par les pleurésies purulentes. Cette hausse est survenue en même temps qu'une circulation intense des virus respiratoires, après la levée des mesures barrières.",
+    "key_points_fr": [
+      "Hausse marquée des infections invasives à SGA depuis octobre 2022.",
+      "Les empyèmes pleuraux représentent la majorité de cette augmentation.",
+      "Survenue concomitante à l'épidémie de virus respiratoires (grippe, VRS).",
+      "Message d'alerte pour les cliniciens dans les périodes de forte circulation virale."
+    ],
+    "pratique_fr": "Devant une pneumonie qui s'aggrave après une virose, chercher activement un empyème et penser au streptocoque A, surtout en période épidémique.",
+    "tags": ["Streptocoque A", "iGAS", "Empyème", "Dette immunitaire", "France"]
+  },
+  {
+    "pmid": "38245897",
+    "category": "sepsis",
+    "audience": "Enfant",
+    "title_fr": "Critères de Phoenix : la nouvelle définition du sepsis et du choc septique de l'enfant",
+    "study_fr": "Cohorte internationale rétrospective · 10 systèmes de santé · > 170 000 enfants",
+    "summary_fr": "La task force de la Society of Critical Care Medicine a dérivé et validé un nouveau score, le Phoenix Sepsis Score, à partir de quatre défaillances d'organe (respiratoire, cardiovasculaire, coagulation, neurologique). Le sepsis est défini par un score ≥ 2 chez un enfant suspect d'infection, et le choc septique par un sepsis avec au moins 1 point cardiovasculaire. Ces critères remplacent les critères IPSCC 2005 fondés sur le SIRS.",
+    "key_points_fr": [
+      "Fin du SIRS : le sepsis devient une infection avec dysfonction d'organe menaçant le pronostic vital.",
+      "Sepsis = Phoenix ≥ 2 points ; choc septique = sepsis + ≥ 1 point cardiovasculaire.",
+      "Meilleure valeur prédictive positive que les critères 2005, quel que soit le niveau de ressources.",
+      "Validation dans des pays à hauts et faibles revenus (États-Unis, Colombie, Bangladesh, Chine, Kenya)."
+    ],
+    "pratique_fr": "C'est désormais la définition de référence pour la recherche et le codage ; elle ne remplace pas le dépistage clinique précoce de l'enfant septique.",
+    "tags": ["Sepsis", "Choc septique", "Phoenix", "Définition", "Réanimation pédiatrique"]
+  },
+  {
+    "pmid": "42028918",
+    "category": "sepsis",
+    "audience": "Enfant",
+    "title_fr": "PRoMPT BOLUS : soluté balancé ou sérum salé à 0,9 % dans le choc septique de l'enfant",
+    "study_fr": "Essai randomisé pragmatique · 47 services d'urgences · 5 pays · plus de 9 000 enfants",
+    "summary_fr": "Chez l'enfant traité pour un choc septique, le remplissage par un cristalloïde balancé n'a pas fait mieux que le sérum salé isotonique sur le critère composite décès, nouvelle épuration extrarénale ou dysfonction rénale persistante (3,4 % vs 3,0 %). Le soluté balancé entraîne moins d'hyperchlorémie et d'hypernatrémie, mais un peu plus d'hyperlactatémie.",
+    "key_points_fr": [
+      "8 482 enfants analysés, de 2 mois à l'adolescence.",
+      "Critère principal : 3,4 % (balancé) vs 3,0 % (NaCl 0,9 %), RR 1,10, non significatif.",
+      "Médiane de 23 jours vivants hors hôpital à J28 dans les deux groupes.",
+      "Hyperchlorémie 31 % vs 49 % ; hyperlactatémie 20 % vs 17 %."
+    ],
+    "pratique_fr": "Le choix du soluté de remplissage importe peu sur les événements graves : la rapidité et le volume du remplissage restent l'essentiel.",
+    "tags": ["Choc septique", "Remplissage vasculaire", "Soluté balancé", "Urgences pédiatriques"]
+  },
+  {
+    "pmid": "38944044",
+    "category": "sepsis",
+    "audience": "Enfant",
+    "title_fr": "Le sepsis bactérien néonatal : la mise au point du Lancet",
+    "study_fr": "Revue (Seminar) · The Lancet",
+    "summary_fr": "Le sepsis néonatal reste, avec la prématurité, responsable de près de la moitié des décès d'enfants de moins de 5 ans dans le monde. Contrairement à l'adulte, il n'existe pas de définition consensuelle du sepsis néonatal, ce qui complique la pratique, la surveillance et la recherche. La revue fait le point sur les limites de l'hémoculture, les nouveaux outils diagnostiques, l'antibiothérapie et surtout la prévention.",
+    "key_points_fr": [
+      "Absence de définition universelle du sepsis néonatal : hétérogénéité des diagnostics et des traitements.",
+      "Présentation clinique peu spécifique ; l'hémoculture a des performances limitées.",
+      "Besoin d'outils diagnostiques pour éviter les antibiothérapies inutiles.",
+      "La prévention (soins de base, hygiène, programmes qualité) reste le levier principal."
+    ],
+    "pratique_fr": "Une bonne lecture de synthèse pour revoir l'épidémiologie, le diagnostic et l'antibiothérapie probabiliste du sepsis néonatal précoce et tardif.",
+    "tags": ["Sepsis néonatal", "Néonatologie", "Hémoculture", "Revue"]
+  },
+  {
+    "pmid": "39956121",
+    "category": "immunodeprimes",
+    "audience": "Enfant & adulte",
+    "title_fr": "Candidoses : les nouvelles recommandations mondiales ECMM / ISHAM / ASM",
+    "study_fr": "Recommandations internationales · Lancet Infectious Diseases",
+    "summary_fr": "Ces recommandations mondiales couvrent l'ensemble des candidoses, des candidémies et candidoses invasives du patient immunodéprimé ou de réanimation jusqu'aux formes cutanéo-muqueuses. Elles intègrent les pathogènes émergents (Candida auris, C. parapsilosis résistant au fluconazole), les nouvelles molécules et la révision de la taxonomie des Candida.",
+    "key_points_fr": [
+      "Candida est la première cause d'infection fongique chez le patient hospitalisé.",
+      "Pathogènes émergents : Candida auris (Candidozyma auris), C. parapsilosis résistant au fluconazole.",
+      "La révision taxonomique renomme plusieurs espèces : attention aux comptes rendus de microbiologie.",
+      "Synthèses détaillées des niveaux de preuve en annexe."
+    ],
+    "pratique_fr": "Le texte de référence à garder sous la main pour toute candidémie, y compris chez l'enfant immunodéprimé ou en réanimation.",
+    "tags": ["Candidose", "Candidémie", "Antifongiques", "Candida auris", "Recommandations"]
+  },
+  {
+    "pmid": "41314221",
+    "category": "immunodeprimes",
+    "audience": "Enfant & adulte",
+    "title_fr": "Neutropénie fébrile en hématologie : les recommandations ECIL-10 sur l'antibiothérapie",
+    "study_fr": "Recommandations ECIL-10 · Lancet Infectious Diseases",
+    "summary_fr": "La 10e Conférence européenne sur les infections en leucémie propose une approche personnalisée de la neutropénie fébrile, guidée par l'écologie locale et les facteurs de risque individuels. Chez le patient stable, sans colonisation à BGN résistant et en zone de faible résistance, une monothérapie épargnant les carbapénèmes est recommandée. Une désescalade puis un arrêt des antibiotiques sont possibles même si les neutrophiles restent bas.",
+    "key_points_fr": [
+      "Patient stable, non colonisé, faible prévalence de résistance : monothérapie sans carbapénème.",
+      "Patient instable, colonisé ou en zone de forte résistance : spectre élargi d'emblée.",
+      "Désescalade dès qu'une infection à BGN résistant est exclue.",
+      "Arrêt possible chez le patient apyrétique et stable, quel que soit le taux de neutrophiles."
+    ],
+    "pratique_fr": "Ces recommandations encouragent l'épargne des carbapénèmes et l'arrêt des antibiotiques avant la sortie d'aplasie, y compris dans les services d'onco-hématologie pédiatrique.",
+    "tags": ["Neutropénie fébrile", "ECIL", "Onco-hématologie", "BGN résistants", "Désescalade"]
+  },
+  {
+    "pmid": "39540734",
+    "category": "immunodeprimes",
+    "audience": "Enfant",
+    "title_fr": "Isavuconazole chez l'enfant : efficacité, tolérance et pharmacocinétique dans l'aspergillose et la mucormycose",
+    "study_fr": "Essai de phase 2 ouvert, non comparatif · 10 centres · 31 enfants de 1 à 17 ans",
+    "summary_fr": "Chez des enfants atteints d'aspergillose ou de mucormycose invasive (prouvée, probable ou possible), l'isavuconazole à 10 mg/kg/j de prodrogue (maximum 372 mg) a permis une réponse globale favorable chez 55 % des patients en fin de traitement, avec une mortalité à J42 de 6,5 %. L'exposition est comparable à celle de l'adulte ; une dose de 15 mg/kg pourrait être nécessaire avant 3 ans.",
+    "key_points_fr": [
+      "58 % des enfants avaient une hémopathie maligne sous-jacente.",
+      "Réponse globale favorable : 54,8 % ; mortalité toutes causes à J42 : 6,5 %.",
+      "Deux arrêts de traitement pour effet indésirable lié au médicament.",
+      "La simulation suggère d'augmenter à 15 mg/kg chez les 1–3 ans."
+    ],
+    "pratique_fr": "L'isavuconazole devient une option crédible chez l'enfant, avec moins d'interactions et une tolérance hépatique et visuelle souvent meilleure que le voriconazole.",
+    "tags": ["Isavuconazole", "Aspergillose", "Mucormycose", "Antifongiques", "Pharmacocinétique"]
+  },
+  {
+    "pmid": "37741341",
+    "category": "ioa",
+    "audience": "Enfant",
+    "title_fr": "Infections ostéo-articulaires de l'enfant : les propositions 2023 du GPIP",
+    "study_fr": "Recommandations du Groupe de pathologie infectieuse pédiatrique (GPIP)",
+    "summary_fr": "Le GPIP actualise la prise en charge des IOA de l'enfant, le plus souvent hématogènes et survenant avant 5 ans. Staphylococcus aureus est en cause à tout âge et Kingella kingae est très fréquent entre 6 mois et 4 ans. L'antibiothérapie probabiliste repose sur la céfazoline IV à forte dose, avec un relais oral précoce après environ 3 jours dans les formes non compliquées.",
+    "key_points_fr": [
+      "Probabiliste : céfazoline IV 150 mg/kg/j ; drainage chirurgical si arthrite ou abcès sous-périosté.",
+      "Relais oral dès J3 si évolution favorable : amoxicilline-acide clavulanique (80 mg/kg/j) ou céfalexine (150 mg/kg/j).",
+      "Durées minimales : 14 jours pour une arthrite, 3 semaines pour une ostéomyélite.",
+      "4 à 6 semaines pour le bassin, les spondylodiscites, les formes sévères, le nouveau-né et l'immunodéprimé."
+    ],
+    "pratique_fr": "Le texte de référence français pour les IOA pédiatriques : schémas courts, relais oral précoce et doses élevées de bêtalactamines.",
+    "tags": ["Ostéomyélite", "Arthrite septique", "Kingella kingae", "GPIP", "Céfazoline", "Recommandations françaises"]
+  },
+  {
+    "pmid": "38543601",
+    "category": "ioa",
+    "audience": "Enfant",
+    "title_fr": "Arthrite septique de hanche : faut-il revoir les critères de Kocher et Caird à l'ère de Kingella ?",
+    "study_fr": "Revue narrative · Microorganisms",
+    "summary_fr": "Les critères de Kocher (fièvre > 38,5 °C, refus d'appui, VS > 40 mm/h, leucocytes > 12 000/mm³), complétés par la CRP > 20 mg/L de Caird, servent depuis vingt ans à distinguer l'arthrite septique de hanche de la synovite transitoire. Ils ont été établis avant la reconnaissance de Kingella kingae, responsable d'infections peu inflammatoires, ce qui expose à des faux négatifs.",
+    "key_points_fr": [
+      "Kocher : 4 critères, probabilité prédite de 99,6 % s'ils sont tous présents.",
+      "Caird ajoute la CRP > 20 mg/L : 98 % de probabilité avec les 5 critères.",
+      "Ces règles n'ont jamais été validées de façon robuste.",
+      "Kingella kingae donne des tableaux pauci-symptomatiques mal captés par ces critères."
+    ],
+    "pratique_fr": "Avant 4 ans, des critères de Kocher « rassurants » n'éliminent pas une arthrite à Kingella : PCR spécifique sur le liquide articulaire et réévaluation clinique.",
+    "tags": ["Arthrite septique", "Hanche", "Kingella kingae", "Critères de Kocher", "Synovite transitoire"]
+  },
+  {
+    "pmid": "37880823",
+    "category": "ioa",
+    "audience": "Enfant",
+    "title_fr": "Ostéomyélite aiguë de l'enfant : deux scores pour prédire les complications",
+    "study_fr": "Étude rétrospective de validation externe · 418 enfants",
+    "summary_fr": "Les scores A-SCORE (complications aiguës) et C-SCORE (complications chroniques) ont été validés sur une cohorte externe d'ostéomyélites aiguës hématogènes. L'A-SCORE prédit bien une évolution aiguë compliquée (aire sous la courbe 0,87, VPN 92 %). Le C-SCORE est moins spécifique que prévu mais garde une bonne VPN (94 %) pour les séquelles chroniques.",
+    "key_points_fr": [
+      "Évolution aiguë compliquée chez 25 % des enfants ; complication chronique chez 13,5 %.",
+      "A-SCORE : abcès osseux, fièvre > 48 h sous antibiotiques, arthrite associée, forme disséminée, contrôle de la source tardif.",
+      "C-SCORE : forme disséminée, débridement osseux, CRP ≥ 100 mg/L à J2–J4.",
+      "L'atteinte tibiale et une bactériémie ≥ 2 jours sont aussi associées aux complications."
+    ],
+    "pratique_fr": "Des outils simples pour décider du niveau de surveillance et de la durée du suivi orthopédique après une ostéomyélite.",
+    "tags": ["Ostéomyélite", "Score prédictif", "Complications", "Suivi"]
+  },
+  {
+    "pmid": "40463685",
+    "category": "ioa",
+    "audience": "Adulte",
+    "title_fr": "DAIR dans l'infection aiguë de prothèse de hanche et de genou : la position de l'EBJIS",
+    "study_fr": "Position paper · European Bone & Joint Infection Society",
+    "summary_fr": "Le succès d'un DAIR (débridement, antibiothérapie et conservation de l'implant) dépend du type d'infection, du terrain, de l'état des parties molles, du germe, de la technique chirurgicale et de l'antibiothérapie. L'EBJIS définit les indications, contre-indications et facteurs de risque d'échec, et détaille la technique chirurgicale associée à l'antibiothérapie systémique.",
+    "key_points_fr": [
+      "La sélection des patients est la clé du succès du DAIR.",
+      "Indications et contre-indications fondées sur les données les plus récentes.",
+      "Le geste chirurgical et l'antibiothérapie doivent être pensés ensemble.",
+      "Une équipe multidisciplinaire dédiée améliore les résultats."
+    ],
+    "pratique_fr": "Une référence pour discuter en RCP de l'option DAIR face à une infection aiguë de prothèse plutôt que d'un changement en un ou deux temps.",
+    "tags": ["Infection de prothèse", "DAIR", "EBJIS", "Chirurgie orthopédique"]
+  },
+  {
+    "pmid": "37952582",
+    "category": "ioa",
+    "audience": "Adulte",
+    "title_fr": "Infections du pied diabétique : les recommandations SPILF 2023",
+    "study_fr": "Recommandations de pratique clinique · SPILF",
+    "summary_fr": "La SPILF actualise ses recommandations de 2006, en complément de celles de l'IWGDF, en se concentrant sur le diagnostic microbiologique et l'antibiothérapie. La gravité doit être classée selon l'IWGDF, les prélèvements ne se font qu'en cas de signes cliniques d'infection, et l'antibiothérapie probabiliste doit toujours couvrir le S. aureus sensible à la méticilline. En cas d'ostéite, radiographie standard et biopsie osseuse.",
+    "key_points_fr": [
+      "Classer la gravité selon l'IWGDF est obligatoire.",
+      "Prélèvements uniquement en présence de signes cliniques d'infection, selon un protocole strict.",
+      "Probabiliste adaptée au grade et à l'ancienneté de la plaie, couvrant toujours le SAMS.",
+      "Ostéite : radio standard en première intention, biopsie osseuse microbiologique ; histologie non recommandée."
+    ],
+    "pratique_fr": "Réévaluation précoce, durées souvent raccourcies et fortes doses en cas d'ostéite documentée : les messages clés de la SPILF.",
+    "tags": ["Pied diabétique", "Ostéite", "SPILF", "Recommandations françaises"]
+  },
+  {
+    "pmid": "42492562",
+    "category": "orl_resp",
+    "audience": "Enfant",
+    "title_fr": "PediCAP : relais oral précoce et traitement de 4 à 5 jours dans la pneumonie sévère de l'enfant",
+    "study_fr": "Essai factoriel randomisé · 13 hôpitaux d'Afrique subsaharienne · 1 101 enfants",
+    "summary_fr": "Chez des enfants de 2 mois à 6 ans hospitalisés pour une pneumonie communautaire sévère non compliquée, un relais oral vers l'amoxicilline dès l'amélioration clinique, pour une durée totale de 4 à 5 jours, est non inférieur aux 5 jours d'antibiothérapie IV recommandés par l'OMS sur la réhospitalisation ou le décès à J28.",
+    "key_points_fr": [
+      "Comparaison amoxicilline vs amoxicilline-acide clavulanique en relais oral.",
+      "Cinq durées totales testées, de 4 à 8 jours (IV + oral).",
+      "Critère principal : réadmission ou décès à J28 (marge de non-infériorité +10 %).",
+      "L'amoxicilline orale seule est la stratégie de relais retenue par les auteurs."
+    ],
+    "pratique_fr": "Même pour les pneumonies sévères, le relais oral précoce et les durées courtes sont sûrs ; un argument de plus pour ne pas prolonger l'IV.",
+    "tags": ["Pneumonie communautaire", "Relais oral", "Amoxicilline", "Durée courte"]
+  },
+  {
+    "pmid": "37730165",
+    "category": "orl_resp",
+    "audience": "Enfant",
+    "title_fr": "Infections ORL de l'enfant : quand traiter, quand s'abstenir (GPIP 2023)",
+    "study_fr": "Recommandations du GPIP · Infectious Diseases Now",
+    "summary_fr": "Les infections ORL sont les infections les plus fréquentes de l'enfant et la première cause de prescription d'antibiotiques, alors qu'elles sont majoritairement virales. Le GPIP rappelle les situations sans antibiotique, la place du TDR streptococcique dans l'angine et les indications restreintes dans l'otite moyenne aiguë. L'amoxicilline reste le traitement de première ligne.",
+    "key_points_fr": [
+      "Pas d'antibiotique : rhinopharyngite, la plupart des angines, laryngite, otite congestive, otite séromuqueuse.",
+      "Angine : antibiotique seulement si TDR streptococcique positif.",
+      "OMA purulente : traiter avant 2 ans, et au-delà seulement si forme symptomatique ou compliquée.",
+      "Mastoïdite, épiglottite, abcès rétro/parapharyngés, ethmoïdite : urgences, hospitalisation et IV."
+    ],
+    "pratique_fr": "Une fiche synthétique idéale pour les consultations aux urgences et pour former les internes au bon usage des antibiotiques en ORL.",
+    "tags": ["ORL", "Otite moyenne aiguë", "Angine", "GPIP", "Recommandations françaises"]
+  },
+  {
+    "pmid": "37741342",
+    "category": "orl_resp",
+    "audience": "Enfant",
+    "title_fr": "Méningites et abcès cérébraux de l'enfant : la mise à jour 2023 du GPIP",
+    "study_fr": "Recommandations du GPIP · Infectious Diseases Now",
+    "summary_fr": "Grâce au vaccin pneumococcique conjugué et à l'observatoire national des méningites, aucune méningite à pneumocoque résistant aux C3G n'a été observée récemment en France. Le GPIP limite donc la vancomycine à la phase secondaire, si la CMI de la C3G est > 0,5 mg/L, et abandonne l'association ciprofloxacine-céfotaxime pour les méningites à E. coli du nouveau-né. Les abcès cérébraux communautaires associent céfotaxime et métronidazole.",
+    "key_points_fr": [
+      "Pneumocoque : pas de vancomycine d'emblée ; seulement si CMI C3G > 0,5 mg/L.",
+      "Fin de l'association ciprofloxacine + céfotaxime pour E. coli chez le nouveau-né et le jeune nourrisson.",
+      "Abcès cérébral : imagerie de qualité, prélèvements avant antibiotiques si possible, céfotaxime + métronidazole.",
+      "L'observatoire national des méningites de l'enfant guide les adaptations futures."
+    ],
+    "pratique_fr": "À connaître pour toute méningite bactérienne de l'enfant : simplification de l'antibiothérapie probabiliste en France.",
+    "tags": ["Méningite", "Pneumocoque", "Abcès cérébral", "GPIP", "Recommandations françaises"]
+  },
+  {
+    "pmid": "41276461",
+    "category": "orl_resp",
+    "audience": "Enfant",
+    "title_fr": "Infections cutanées récidivantes à S. aureus : décoloniser l'enfant, la famille et la maison ?",
+    "study_fr": "Essai randomisé ouvert · 196 enfants et 623 contacts familiaux",
+    "summary_fr": "Après une infection cutanée à S. aureus chez un enfant, trois stratégies de décolonisation de 3 mois ont été comparées : personnelle (chlorhexidine, mupirocine), environnementale (désinfection des surfaces, linge) ou combinée. Aucune n'a réduit les infections à 3 mois. La stratégie combinée a réduit les récidives à 6 et 9 mois chez ceux qui avaient déjà eu une infection l'année précédente.",
+    "key_points_fr": [
+      "Pas de différence d'incidence pendant la période d'intervention de 3 mois.",
+      "Bénéfice de l'approche combinée chez les patients avec antécédent d'infection cutanée dans l'année.",
+      "Un antécédent d'infection est le principal facteur prédictif de récidive.",
+      "Toutes les stratégies réduisent le portage de SARM, mais pas celui de SAMS."
+    ],
+    "pratique_fr": "En cas de furonculose récidivante familiale, une décolonisation combinée personnelle et domestique peut se discuter, mais son effet reste modeste.",
+    "tags": ["Staphylococcus aureus", "Infection cutanée", "Décolonisation", "Furonculose", "SARM"]
+  },
+  {
+    "pmid": "37702442",
+    "category": "antiinfectieux",
+    "audience": "Enfant",
+    "title_fr": "Reflux vésico-urétéral de haut grade : l'antibioprophylaxie réduit un peu les infections urinaires",
+    "study_fr": "Essai randomisé PREDICT · 39 centres européens · 292 nourrissons",
+    "summary_fr": "Chez des nourrissons de 1 à 5 mois avec un reflux de grade III à V, sans infection urinaire antérieure, l'antibioprophylaxie continue pendant 2 ans réduit le risque de première infection urinaire (21 % vs 36 %). Il faut traiter 7 enfants pour éviter une infection, sans effet sur les cicatrices rénales ni sur le débit de filtration glomérulaire, et au prix de germes plus résistants.",
+    "key_points_fr": [
+      "Première IU : 21,2 % sous prophylaxie vs 35,6 % sans traitement (HR 0,55).",
+      "Nombre de sujets à traiter : 7 enfants pendant 2 ans.",
+      "64 % des enfants non traités n'ont fait aucune infection urinaire.",
+      "Plus de Pseudomonas, de germes non-E. coli et de résistances sous prophylaxie."
+    ],
+    "pratique_fr": "Le bénéfice existe mais il est modeste : la prophylaxie se discute au cas par cas, en pesant le risque de sélection de résistances.",
+    "tags": ["Antibioprophylaxie", "Reflux vésico-urétéral", "Infection urinaire", "Néphrologie pédiatrique"]
+  },
+  {
+    "pmid": "38146260",
+    "category": "antiinfectieux",
+    "audience": "Enfant",
+    "title_fr": "Pyélonéphrite de l'enfant : 5 jours d'amoxicilline-acide clavulanique suffisent",
+    "study_fr": "Essai randomisé multicentrique de non-infériorité · 142 enfants de 3 mois à 5 ans",
+    "summary_fr": "Chez l'enfant en bon état général avec une infection urinaire fébrile non compliquée, 5 jours d'amoxicilline-acide clavulanique per os (50 mg/kg/j) sont non inférieurs à 10 jours. Les récidives à 30 jours étaient même moins fréquentes dans le bras court (2,8 % vs 14,3 %).",
+    "key_points_fr": [
+      "Récidive d'IU à 30 jours : 2,8 % (5 jours) vs 14,3 % (10 jours).",
+      "Récidive d'IU fébrile : 1,4 % vs 5,7 %.",
+      "Concerne les IU fébriles non compliquées chez des enfants de 3 mois à 5 ans en bon état général.",
+      "Petit effectif : à confirmer par des essais plus larges."
+    ],
+    "pratique_fr": "Conforte la tendance aux durées courtes dans l'IU fébrile de l'enfant, à condition d'une bonne évolution clinique sous traitement.",
+    "tags": ["Infection urinaire", "Pyélonéphrite", "Durée courte", "Amoxicilline-acide clavulanique"]
+  },
+  {
+    "pmid": "39798581",
+    "category": "antiinfectieux",
+    "audience": "Enfant",
+    "title_fr": "BATCH : la procalcitonine ne raccourcit pas les antibiothérapies IV chez l'enfant hospitalisé",
+    "study_fr": "Essai randomisé pragmatique · 15 hôpitaux britanniques · 1 949 enfants",
+    "summary_fr": "Chez des enfants hospitalisés sous antibiotiques IV pour une infection bactérienne suspectée ou confirmée, un algorithme guidé par la procalcitonine n'a pas réduit la durée d'antibiothérapie IV par rapport à la prise en charge habituelle (environ 96 h vs 100 h), avec une sécurité équivalente.",
+    "key_points_fr": [
+      "Durée médiane d'antibiotiques IV : 96,0 h (procalcitonine) vs 99,7 h (soins usuels).",
+      "Critère de sécurité composite : 9 % dans les deux groupes.",
+      "Enfants de 72 heures à 18 ans, antibiothérapie IV prévue de plus de 48 h.",
+      "Les services avaient déjà des programmes de bon usage des antibiotiques efficaces."
+    ],
+    "pratique_fr": "Là où le bon usage des antibiotiques est déjà bien organisé, ajouter un algorithme procalcitonine n'apporte pas de bénéfice supplémentaire.",
+    "tags": ["Procalcitonine", "Bon usage des antibiotiques", "Durée d'antibiothérapie", "Biomarqueurs"]
+  },
+  {
+    "pmid": "37851875",
+    "category": "antiinfectieux",
+    "audience": "Adulte",
+    "title_fr": "Antibioprophylaxie en chirurgie prothétique : ajouter la vancomycine à la céfazoline n'apporte rien",
+    "study_fr": "Essai randomisé en double aveugle contre placebo · 4 239 patients",
+    "summary_fr": "Chez des adultes non colonisés à SARM opérés d'une arthroplastie, l'ajout de 1,5 g de vancomycine à la céfazoline n'a pas réduit les infections du site opératoire à 90 jours (4,5 % vs 3,5 %). Chez les prothèses de genou, elles étaient même plus fréquentes avec la vancomycine, et les réactions d'hypersensibilité deux fois plus nombreuses.",
+    "key_points_fr": [
+      "Infection du site opératoire : 4,5 % (vancomycine) vs 3,5 % (placebo), RR 1,28, non significatif.",
+      "Genou : 5,7 % vs 3,7 % (RR 1,52) ; hanche : pas de différence.",
+      "Hypersensibilité : 1,2 % vs 0,5 % ; insuffisance rénale aiguë moins fréquente sous vancomycine.",
+      "Population sans colonisation connue à SARM."
+    ],
+    "pratique_fr": "Céfazoline seule chez le patient non porteur de SARM : pas de double antibioprophylaxie systématique en chirurgie prothétique.",
+    "tags": ["Antibioprophylaxie", "Prothèse articulaire", "Vancomycine", "Céfazoline", "Infection du site opératoire"]
+  },
+  {
+    "pmid": "40216161",
+    "category": "antiinfectieux",
+    "audience": "Enfant & adulte",
+    "title_fr": "Bon usage des fluoroquinolones : l'actualisation 2025 de la SPILF et du GPIP",
+    "study_fr": "Recommandations françaises SPILF & GPIP · Infectious Diseases Now",
+    "summary_fr": "La SPILF et le GPIP actualisent conjointement les règles de bon usage des fluoroquinolones chez l'adulte et chez l'enfant. Ce texte, sans résumé sur PubMed, précise les situations où ces molécules gardent leur place, celles où elles doivent être évitées compte tenu de leurs effets indésirables et du risque de résistance, ainsi que les spécificités pédiatriques.",
+    "key_points_fr": [
+      "Texte conjoint adulte et pédiatrie (SPILF + GPIP).",
+      "Remet à jour les indications réservées des fluoroquinolones.",
+      "Intègre les alertes de pharmacovigilance sur les effets indésirables graves.",
+      "Pas d'abstract PubMed : lire le texte intégral pour les schémas détaillés."
+    ],
+    "pratique_fr": "La référence française pour justifier, ou éviter, une prescription de fluoroquinolone, y compris chez l'enfant.",
+    "tags": ["Fluoroquinolones", "SPILF", "GPIP", "Bon usage", "Recommandations françaises"]
+  },
+  {
+    "pmid": "39565030",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "BALANCE : 7 jours d'antibiotiques suffisent pour la plupart des bactériémies",
+    "study_fr": "Essai randomisé de non-infériorité · 74 hôpitaux · 7 pays · 3 608 patients",
+    "summary_fr": "Chez des patients hospitalisés, dont plus de la moitié en réanimation, avec une bactériémie (principalement à BGN, hors S. aureus et immunodépression sévère), 7 jours d'antibiotiques sont non inférieurs à 14 jours sur la mortalité à 90 jours (14,5 % vs 16,1 %). Les résultats sont homogènes quels que soient le patient, le germe ou le foyer infectieux.",
+    "key_points_fr": [
+      "Mortalité à J90 : 14,5 % (7 jours) vs 16,1 % (14 jours), différence -1,6 point.",
+      "55 % des patients en réanimation ; 75 % d'infections communautaires.",
+      "Origines principales : urinaire (42 %), abdominale (19 %), pulmonaire (13 %).",
+      "Exclusions : S. aureus, contaminants possibles, foyers nécessitant un traitement prolongé."
+    ],
+    "pratique_fr": "Un essai majeur qui fait de 7 jours la durée standard des bactériémies non compliquées à BGN, y compris en réanimation.",
+    "tags": ["Bactériémie", "Durée courte", "BGN", "Réanimation", "NEJM"]
+  },
+  {
+    "pmid": "42308484",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "SNAP : la céfazoline non inférieure aux pénicillines M dans les bactériémies à SAMS",
+    "study_fr": "Essai plateforme adaptatif bayésien international · 1 287 patients évalués",
+    "summary_fr": "Dans la plateforme SNAP, la céfazoline a été comparée à la flucloxacilline ou à la cloxacilline chez des adultes avec une bactériémie à S. aureus sensible à la méticilline. La céfazoline est non inférieure sur la mortalité à 90 jours (15,0 % vs 17,0 %, probabilité de non-infériorité 99,2 %) et entraîne moins d'insuffisance rénale aiguë.",
+    "key_points_fr": [
+      "Mortalité à J90 : 15,0 % (céfazoline) vs 17,0 % (pénicilline M).",
+      "Probabilité de supériorité de la céfazoline : 89,8 %.",
+      "Insuffisance rénale aiguë : 13,9 % vs 19,6 %.",
+      "Concerne les SAMS résistants à la pénicilline."
+    ],
+    "pratique_fr": "Avec CloCeBa, cet essai installe la céfazoline comme traitement de première ligne des bactériémies à SAMS, avec une meilleure tolérance rénale.",
+    "tags": ["Staphylococcus aureus", "Bactériémie", "Céfazoline", "Cloxacilline", "SNAP"]
+  },
+  {
+    "pmid": "41115439",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "CloCeBa : l'essai français qui valide la céfazoline dans les bactériémies à SAMS",
+    "study_fr": "Essai randomisé de non-infériorité · 21 hôpitaux français · 315 patients",
+    "summary_fr": "Premier essai randomisé comparant céfazoline et cloxacilline pendant les 7 premiers jours de traitement d'une bactériémie à SAMS, hors matériel intravasculaire et infection neuroméningée. Le succès à J90 est identique (75 % vs 74 %) et la céfazoline entraîne moins d'événements indésirables graves et beaucoup moins d'insuffisance rénale aiguë.",
+    "key_points_fr": [
+      "Critère composite : 75 % (céfazoline) vs 74 % (cloxacilline), non-infériorité démontrée.",
+      "Événements indésirables graves : 15 % vs 27 % (p = 0,010).",
+      "Insuffisance rénale aiguë : 1 % vs 12 % (p = 0,0002).",
+      "Exclusion des infections du système nerveux central et des implants intravasculaires."
+    ],
+    "pratique_fr": "La céfazoline, plus simple à administrer (toutes les 8 h) et mieux tolérée, est une alternative validée à la cloxacilline.",
+    "tags": ["Staphylococcus aureus", "Bactériémie", "Céfazoline", "Cloxacilline", "Essai français"]
+  },
+  {
+    "pmid": "40802264",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "DOTS : la dalbavancine pour terminer le traitement des bactériémies compliquées à S. aureus",
+    "study_fr": "Essai randomisé ouvert, évaluateur en aveugle · 23 centres · 200 patients",
+    "summary_fr": "Chez des adultes avec une bactériémie compliquée à S. aureus et des hémocultures négativées, deux doses de dalbavancine (1 500 mg à J1 et J8) ont été comparées à 4 à 8 semaines de traitement IV standard. La dalbavancine n'est pas supérieure sur le classement DOOR, mais son efficacité clinique est non inférieure (73 % vs 72 %), sans cathéter de longue durée.",
+    "key_points_fr": [
+      "Probabilité d'un meilleur résultat DOOR avec la dalbavancine : 47,7 %, donc pas de supériorité.",
+      "Efficacité clinique à J70 : 73 % vs 72 %, non-infériorité atteinte.",
+      "Événements indésirables graves : 40 % vs 34 % ; effets liés au traitement rares.",
+      "Exclusions : endocardite gauche, matériel infecté, atteinte neurologique, immunodépression sévère."
+    ],
+    "pratique_fr": "Une option pour éviter une voie veineuse prolongée chez certains patients, après négativation des hémocultures.",
+    "tags": ["Staphylococcus aureus", "Bactériémie", "Dalbavancine", "Ostéomyélite", "OPAT"]
+  },
+  {
+    "pmid": "40011104",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "Pneumonie aiguë communautaire de l'adulte : l'actualisation SPILF / SPLF 2025",
+    "study_fr": "Recommandations françaises SPILF & SPLF, avec SRLF, SFM, SFR et SFMU",
+    "summary_fr": "La SPILF et la SPLF actualisent la prise en charge de la pneumonie aiguë communautaire de l'adulte, avec l'aval des sociétés françaises de réanimation, microbiologie, radiologie et médecine d'urgence. Le texte, sans résumé sur PubMed, couvre le diagnostic, la place de l'imagerie et de la microbiologie, l'antibiothérapie probabiliste, sa durée et les traitements adjuvants.",
+    "key_points_fr": [
+      "Texte multidisciplinaire endossé par six sociétés savantes françaises.",
+      "Actualise le choix et la durée de l'antibiothérapie probabiliste.",
+      "Précise la place de l'imagerie et des examens microbiologiques.",
+      "Pas d'abstract PubMed : lire le texte intégral pour les schémas détaillés."
+    ],
+    "pratique_fr": "La référence française actuelle pour la pneumonie de l'adulte, utile aussi pour les adolescents et la transition.",
+    "tags": ["Pneumonie communautaire", "SPILF", "SPLF", "Recommandations françaises"]
+  },
+  {
+    "pmid": "41359996",
+    "category": "adulte",
+    "audience": "Adulte",
+    "title_fr": "ImmunoSep : une immunothérapie de précision pour le sepsis",
+    "study_fr": "Essai de phase 2 randomisé en double aveugle · 6 pays · 276 patients",
+    "summary_fr": "Les patients septiques ont été classés selon leur profil immunitaire : syndrome d'activation macrophagique (ferritine > 4 420 ng/mL), traité par anakinra, ou immunoparalysie, traitée par interféron gamma. Cette stratégie de précision a doublé la proportion de patients dont le score SOFA s'améliore nettement à J9 (35 % vs 18 %), sans différence significative de mortalité à J28.",
+    "key_points_fr": [
+      "Diminution du SOFA ≥ 1,4 point à J9 : 35,1 % vs 17,9 % sous placebo (p = 0,002).",
+      "Anakinra si activation macrophagique ; interféron gamma si immunoparalysie.",
+      "Pas de différence significative de mortalité à J28.",
+      "Plus d'anémie sous anakinra et d'hémorragies sous interféron gamma."
+    ],
+    "pratique_fr": "Une preuve de concept forte pour personnaliser le traitement immunologique du sepsis ; à confirmer en phase 3 avant toute utilisation en routine.",
+    "tags": ["Sepsis", "Immunothérapie", "Anakinra", "Interféron gamma", "Médecine de précision"]
+  }
+]

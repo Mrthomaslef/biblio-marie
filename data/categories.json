@@ -1,0 +1,10 @@
+[
+  {"id": "pediatrie", "label": "Pédiatrie générale", "blurb": "Les grands essais qui changent la pratique pédiatrique quotidienne.", "color": "#c2410c"},
+  {"id": "vaccins", "label": "Vaccins & infections communautaires", "blurb": "VRS, coqueluche, streptocoque A : prévention et épidémiologie de ville.", "color": "#0f766e"},
+  {"id": "sepsis", "label": "Sepsis & réanimation", "blurb": "Choc septique de l'enfant, définitions, remplissage, sepsis néonatal.", "color": "#b91c1c"},
+  {"id": "immunodeprimes", "label": "Immunodéprimés & fongiques", "blurb": "Neutropénie fébrile, candidoses, aspergillose et mucormycose.", "color": "#6d28d9"},
+  {"id": "ioa", "label": "Infections ostéo-articulaires", "blurb": "Ostéomyélite, arthrite septique, Kingella, prothèses et pied diabétique.", "color": "#a16207"},
+  {"id": "orl_resp", "label": "Respiratoire, ORL, peau & méninges", "blurb": "Pneumonies, infections ORL, méningites, infections cutanées.", "color": "#1d4ed8"},
+  {"id": "antiinfectieux", "label": "Anti-infectieux & antibioprophylaxie", "blurb": "Durées courtes, relais oral, prophylaxies, bon usage.", "color": "#047857"},
+  {"id": "adulte", "label": "Infectiologie adulte", "blurb": "Les essais majeurs et recommandations de l'infectiologie adulte.", "color": "#334155"}
+]
