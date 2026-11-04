@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>BiblioMarie — Infectiologie pédiatrique</title>
   <meta name="description" content="Veille bibliographique en infectiologie pédiatrique et adulte : synthèses en français, impact factor, abstracts, PDF et Zotero." />
-  <meta name="theme-color" content="#fdfaf4" media="(prefers-color-scheme: light)" />
-  <meta name="theme-color" content="#0d141c" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#fdfaf4" />
+  <meta name="color-scheme" content="light" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="BiblioMarie" />
   <link rel="icon" type="image/svg+xml" href="assets/icon.svg" />
@@ -34,24 +34,6 @@
       --serif: 'Source Serif 4', Georgia, serif;
       --radius: 10px;
       --shadow: 0 1px 2px rgba(60, 45, 20, .06);
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0d141c;
-        --surface: #131c26;
-        --surface-2: #17212c;
-        --ink: #e8edf2;
-        --ink-2: #aab5c0;
-        --ink-3: #74818e;
-        --line: #233140;
-        --line-2: #1c2834;
-        --brand: #4fb3c8;
-        --brand-ink: #0d141c;
-        --brand-soft: #16303a;
-        --if-bg: #e8edf2;
-        --if-ink: #0d141c;
-        --shadow: none;
-      }
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -275,7 +257,7 @@
   </div>
   <div class="toast" id="toast"></div>
 
-  <script src="data/embedded_data.js"></script>
+  <script src="data/embedded_data.js?v=3"></script>
   <script>
     const DATA = window.BIBLIO || { categories: [], articles: [] };
     const ARTS = DATA.articles;
@@ -530,6 +512,21 @@
       render();
       const h = location.hash.slice(1);
       if (h && ARTS.some(a => a.pmid === h)) { history.replaceState(null, '', location.pathname); openArticle(h); }
+    })();
+
+    // Défilement horizontal fluide à la molette ou au trackpad sur la barre de rubriques
+    (function initDesktopWheelScroll() {
+      window.addEventListener("wheel", (e) => {
+        if (e.ctrlKey || e.metaKey) return;
+        const dy = e.deltaY || 0;
+        const dx = e.deltaX || 0;
+        if (!dy && !dx) return;
+        const horiz = e.target && e.target.closest ? e.target.closest("#tabs, .tabs") : null;
+        if (horiz && horiz.scrollWidth > horiz.clientWidth && Math.abs(dy) > Math.abs(dx)) {
+          horiz.scrollLeft += dy;
+          e.preventDefault();
+        }
+      }, { passive: false });
     })();
   </script>
 </body>
