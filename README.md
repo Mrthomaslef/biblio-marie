@@ -1,8 +1,8 @@
-<img src="assets/icon.svg" width="64" height="64" alt="Le Carnet de Marie">
+<img src="assets/icon.svg" width="64" height="64" alt="BiblioMarie">
 
-# Le Carnet de Marie — Pédiatrie & Infectiologie
+# BiblioMarie — Infectiologie pédiatrique
 
-Veille bibliographique pour Marie : les publications qui comptent en **pédiatrie générale**, **infectiologie pédiatrique** (communautaire et hospitalière) et **infectiologie adulte**. Chaque article est résumé en français, avec l'abstract original, le PDF quand il est en accès libre et l'envoi vers Zotero.
+Veille bibliographique pour Marie : les publications qui comptent en **pédiatrie générale**, **infectiologie pédiatrique** (communautaire et hospitalière) et **infectiologie adulte**. Chaque article est présenté avec sa revue, son **impact factor**, son schéma d'étude, une synthèse en français, l'abstract original, la référence Vancouver, le PDF quand il est en accès libre et l'envoi vers Zotero.
 
 Site statique (un seul `index.html`), installable sur l'écran d'accueil du téléphone.
 
@@ -23,6 +23,7 @@ Site statique (un seul `index.html`), installable sur l'écran d'accueil du tél
 
 - `data/editorial.json` : **les fiches rédigées** (titre français, résumé, points clés, « En pratique », tags). C'est le seul fichier à modifier à la main.
 - `data/categories.json` : les rubriques.
+- `data/impact_factors.json` : impact factors par revue (JIF 2024, Clarivate JCR édition 2025), indexés par abréviation ISO. Ajouter la revue ici quand un nouvel article vient d'un nouveau journal.
 - `data/articles.json`, `data/embedded_data.js` : générés.
 - `data/pubmed_cache.json` : cache des métadonnées Europe PMC.
 - `pdfs/PMID_<pmid>.pdf` : uniquement de vrais PDF en accès libre (Unpaywall / OpenAlex / Europe PMC). Sinon, lien direct vers l'article.
@@ -30,7 +31,7 @@ Site statique (un seul `index.html`), installable sur l'écran d'accueil du tél
 
 ## Ajouter un article
 
-1. Ajouter une entrée dans `data/editorial.json` (`pmid`, `category`, `title_fr`, `study_fr`, `summary_fr`, `key_points_fr`, `pratique_fr`, `tags`).
+1. Ajouter une entrée dans `data/editorial.json` (`pmid`, `category`, `audience`, `design`, `title_fr`, `study_fr`, `summary_fr`, `key_points_fr`, `pratique_fr`, `tags`).
 2. Reconstruire :
 
 ```bash

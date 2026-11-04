@@ -29,6 +29,7 @@ PDFS = BASE / "pdfs"
 CACHE = DATA / "pubmed_cache.json"
 UA = {"User-Agent": "BiblioMarie/1.0 (mailto:biblio-marie@users.noreply.github.com)"}
 
+IF = {}
 MONTHS_FR = ["", "janvier", "février", "mars", "avril", "mai", "juin", "juillet",
              "août", "septembre", "octobre", "novembre", "décembre"]
 
@@ -159,6 +160,8 @@ def main():
     refresh = "--refresh" in sys.argv
     editorial = json.loads((DATA / "editorial.json").read_text(encoding="utf-8"))
     cats = {c["id"]: c for c in json.loads((DATA / "categories.json").read_text(encoding="utf-8"))}
+    global IF
+    IF = json.loads((DATA / "impact_factors.json").read_text(encoding="utf-8"))
     cache = json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
 
     prev = json.loads((DATA / "articles.json").read_text(encoding="utf-8")) if (DATA / "articles.json").exists() else []
@@ -208,6 +211,8 @@ def main():
             "category_color": cat["color"],
             "audience": e.get("audience", ""),
             "study_fr": e.get("study_fr", ""),
+            "design": e.get("design", ""),
+            "impact_factor": IF.get(journal.get("isoabbreviation") or journal.get("medlineAbbreviation") or ""),
             "summary_fr": e["summary_fr"],
             "key_points_fr": e["key_points_fr"],
             "pratique_fr": e["pratique_fr"],
@@ -227,6 +232,7 @@ def main():
     payload = {
         "built": time.strftime("%Y-%m-%d"),
         "categories": list(cats.values()),
+        "if_edition": IF.get("_edition", ""),
         "articles": articles,
     }
     (DATA / "embedded_data.js").write_text(

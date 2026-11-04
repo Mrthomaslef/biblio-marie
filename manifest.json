@@ -1,16 +1,30 @@
 {
-  "name": "Le Carnet de Marie — Pédiatrie & Infectiologie",
-  "short_name": "Carnet",
-  "description": "La littérature qui compte en pédiatrie et en infectiologie, résumée en français.",
+  "name": "BiblioMarie — Infectiologie pédiatrique",
+  "short_name": "BiblioMarie",
+  "description": "Veille bibliographique en infectiologie pédiatrique et adulte : synthèses en français, impact factor, PDF et Zotero.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#f5efe4",
-  "theme_color": "#f5efe4",
+  "background_color": "#f4f6f8",
+  "theme_color": "#ffffff",
   "icons": [
-    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
   ]
 }
